@@ -1083,6 +1083,80 @@
                                     <groups>
                                         <li>SZ_Wrists</li>
                                     </groups>
+                                    <parts>
+                                        <li>
+                                            <def>SZ_Hamate</def>
+                                            <customLabel>left hamate</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Pisiform</def>
+                                            <customLabel>left pisiform</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Triquetral</def>
+                                            <customLabel>left triquetral</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Lunate</def>
+                                            <customLabel>left lunate</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Trapezoid</def>
+                                            <customLabel>left trapezoid</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Trapezium</def>
+                                            <customLabel>left trapezium</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Scaphoid</def>
+                                            <customLabel>left scaphoid</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Capitate</def>
+                                            <customLabel>left capitate</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                    </parts>
                                 </li>
                                 <li>
                                     <def>Hand</def>
@@ -1421,6 +1495,80 @@
                                     <groups>
                                         <li>SZ_Wrists</li>
                                     </groups>
+                                    <parts>
+                                        <li>
+                                            <def>SZ_Hamate</def>
+                                            <customLabel>right hamate</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Pisiform</def>
+                                            <customLabel>right pisiform</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Triquetral</def>
+                                            <customLabel>right triquetral</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Lunate</def>
+                                            <customLabel>right lunate</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Trapezoid</def>
+                                            <customLabel>right trapezoid</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Trapezium</def>
+                                            <customLabel>right trapezium</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Scaphoid</def>
+                                            <customLabel>right scaphoid</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                        <li>
+                                            <def>SZ_Capitate</def>
+                                            <customLabel>right capitate</customLabel>
+                                            <coverage>0.1</coverage>
+                                            <depth>Inside</depth>
+                                            <groups>
+                                                <li>SZ_Wrists</li>
+                                            </groups>
+                                        </li>
+                                    </parts>
                                 </li>
                                 <li>
                                     <def>Hand</def>
@@ -1742,6 +1890,80 @@
                             </groups>
                         </li>
                         <li>
+                            <def>SZ_Ankle</def>
+                            <customLabel>left ankle</customLabel>
+                            <coverage>0.1</coverage>
+                            <depth>Inside</depth>
+                            <groups>
+                                <li>SZ_Ankles</li>
+                            </groups>
+                            <parts>
+                                <li>
+                                    <def>SZ_Calcaneus</def>
+                                    <customLabel>left calcaneus</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Talus</def>
+                                    <customLabel>left talus</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Cuboid</def>
+                                    <customLabel>left cuboid</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Navicular</def>
+                                    <customLabel>left navicular</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Medial_Cuneiform</def>
+                                    <customLabel>left medial cuneiform</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Intermediate_Cuneiform</def>
+                                    <customLabel>left intermediate cuneiform</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Lateral_Cuneiform</def>
+                                    <customLabel>left lateral cuneiform</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                            </parts>
+                        </li>
+                        <li>
                             <def>Foot</def>
                             <customLabel>left foot</customLabel>
                             <coverage>0.1</coverage>
@@ -2013,12 +2235,86 @@
                         </li>
                         <li>
                             <def>SZ_Fibula</def>
-                            <customLabel>right tibia</customLabel>
+                            <customLabel>right fibula</customLabel>
                             <coverage>0.1</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
                             </groups>
+                        </li>
+                        <li>
+                            <def>SZ_Ankle</def>
+                            <customLabel>right ankle</customLabel>
+                            <coverage>0.1</coverage>
+                            <depth>Inside</depth>
+                            <groups>
+                                <li>SZ_Ankles</li>
+                            </groups>
+                            <parts>
+                                <li>
+                                    <def>SZ_Calcaneus</def>
+                                    <customLabel>right calcaneus</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Talus</def>
+                                    <customLabel>right talus</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Cuboid</def>
+                                    <customLabel>right cuboid</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Navicular</def>
+                                    <customLabel>right navicular</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Medial_Cuneiform</def>
+                                    <customLabel>right medial cuneiform</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Intermediate_Cuneiform</def>
+                                    <customLabel>right intermediate cuneiform</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                                <li>
+                                    <def>SZ_Lateral_Cuneiform</def>
+                                    <customLabel>right lateral cuneiform</customLabel>
+                                    <coverage>0.1</coverage>
+                                    <depth>Inside</depth>
+                                    <groups>
+                                        <li>SZ_Ankles</li>
+                                    </groups>
+                                </li>
+                            </parts>
                         </li>
                         <li>
                             <def>Foot</def>

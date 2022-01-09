@@ -18,6 +18,21 @@
             c. Intermediate phalange (4 per foot)
             d. Distal phalange (5 per foot) -->
 
+    <!--========== ANKLE PART ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Ankle</defName>
+        <label>ankle</label>
+        <hitPoints>15</hitPoints>
+        <frostbiteVulnerability>0.5</frostbiteVulnerability>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>true</skinCovered>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>MovingLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
     <!--========== ANKLE BONES ==========-->
 
     <BodyPartDef>

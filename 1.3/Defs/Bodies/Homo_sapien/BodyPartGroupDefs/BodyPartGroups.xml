@@ -9,4 +9,12 @@
         <listOrder>81</listOrder>
     </BodyPartGroupDef>
 
+    <!--========== ANKLE GROUP ==========-->
+
+    <BodyPartGroupDef>
+        <defName>SZ_Ankles</defName>
+        <label>ankles</label>
+        <listOrder>8</listOrder>
+    </BodyPartGroupDef>
+
 </Defs>
