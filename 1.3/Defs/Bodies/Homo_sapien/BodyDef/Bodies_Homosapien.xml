@@ -25,7 +25,7 @@
                         <li>
                             <def>SZ_First_Rib</def>
                             <customLabel>left first rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -34,7 +34,7 @@
                         <li>
                             <def>SZ_First_Rib</def>
                             <customLabel>right first rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -43,7 +43,7 @@
                         <li>
                             <def>SZ_Second_Rib</def>
                             <customLabel>left second rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -52,7 +52,7 @@
                         <li>
                             <def>SZ_Second_Rib</def>
                             <customLabel>right second rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -61,7 +61,7 @@
                         <li>
                             <def>SZ_Third_Rib</def>
                             <customLabel>left third rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -70,7 +70,7 @@
                         <li>
                             <def>SZ_Third_Rib</def>
                             <customLabel>right third rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -79,7 +79,7 @@
                         <li>
                             <def>SZ_Fourth_Rib</def>
                             <customLabel>left fourth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -88,7 +88,7 @@
                         <li>
                             <def>SZ_Fourth_Rib</def>
                             <customLabel>right fourth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -97,7 +97,7 @@
                         <li>
                             <def>SZ_Fifth_Rib</def>
                             <customLabel>left fifth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -106,7 +106,7 @@
                         <li>
                             <def>SZ_Fifth_Rib</def>
                             <customLabel>right fifth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -115,7 +115,7 @@
                         <li>
                             <def>SZ_Sixth_Rib</def>
                             <customLabel>left sixth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -124,7 +124,7 @@
                         <li>
                             <def>SZ_Sixth_Rib</def>
                             <customLabel>right sixth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -133,7 +133,7 @@
                         <li>
                             <def>SZ_Seventh_Rib</def>
                             <customLabel>left seventh rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -142,7 +142,7 @@
                         <li>
                             <def>SZ_Seventh_Rib</def>
                             <customLabel>right seventh rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -151,7 +151,7 @@
                         <li>
                             <def>SZ_Eighth_Rib</def>
                             <customLabel>left eighth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -160,7 +160,7 @@
                         <li>
                             <def>SZ_Eighth_Rib</def>
                             <customLabel>right eighth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -169,7 +169,7 @@
                         <li>
                             <def>SZ_Ninth_Rib</def>
                             <customLabel>left ninth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -178,7 +178,7 @@
                         <li>
                             <def>SZ_Ninth_Rib</def>
                             <customLabel>right ninth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -187,7 +187,7 @@
                         <li>
                             <def>SZ_Tenth_Rib</def>
                             <customLabel>left tenth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -196,7 +196,7 @@
                         <li>
                             <def>SZ_Tenth_Rib</def>
                             <customLabel>right tenth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -205,7 +205,7 @@
                         <li>
                             <def>SZ_Eleventh_Rib</def>
                             <customLabel>left eleventh rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -214,7 +214,7 @@
                         <li>
                             <def>SZ_Eleventh_Rib</def>
                             <customLabel>right eleventh rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -223,7 +223,7 @@
                         <li>
                             <def>SZ_Twelfth_Rib</def>
                             <customLabel>left twelfth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -232,7 +232,7 @@
                         <li>
                             <def>SZ_Twelfth_Rib</def>
                             <customLabel>right twelfth rib</customLabel>
-                            <coverage>0.0015</coverage>
+                            <coverage>0.0415</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -286,7 +286,7 @@
                         <li>
                             <def>SZ_Hip_Bone</def>
                             <customLabel>left hip bone</customLabel>
-                            <coverage>0.005</coverage>
+                            <coverage>0.0125</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -295,7 +295,7 @@
                         <li>
                             <def>SZ_Hip_Bone</def>
                             <customLabel>right hip bone</customLabel>
-                            <coverage>0.005</coverage>
+                            <coverage>0.0125</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -676,7 +676,7 @@
                                         </li>
                                         <li>
                                             <def>SZ_Frontal_Bone</def>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.05</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -991,7 +991,7 @@
                                     <parts>
                                         <li>
                                             <def>SZ_Mandible</def>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.45</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>FullHead</li>
@@ -1864,7 +1864,7 @@
                         </li>
                         <li>
                             <def>SZ_Patella</def>
-                            <customLabel>left femur</customLabel>
+                            <customLabel>left patella</customLabel>
                             <coverage>0.1</coverage>
                             <depth>Inside</depth>
                             <groups>
@@ -1882,7 +1882,7 @@
                         </li>
                         <li>
                             <def>SZ_Fibula</def>
-                            <customLabel>left tibia</customLabel>
+                            <customLabel>left fibula</customLabel>
                             <coverage>0.1</coverage>
                             <depth>Inside</depth>
                             <groups>
@@ -2217,7 +2217,7 @@
                         </li>
                         <li>
                             <def>SZ_Patella</def>
-                            <customLabel>right femur</customLabel>
+                            <customLabel>right patella</customLabel>
                             <coverage>0.1</coverage>
                             <depth>Inside</depth>
                             <groups>
