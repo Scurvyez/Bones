@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--========== CRANIUM & FACE ==========-->
+
+    <!-- 1. Cranial Bones
+            a. Occipital bone (1)
+            b. Parietal bone (1 per side)
+            c. Temporal bone (1 per side)
+            d. Frontal bone (1)
+            e. Sphenoid bone (1)
+            f. Ethmoid bone (1) -->
+
+    <!-- 2. Facial Bones
+            a. Zygomatic bone (1 per side)
+            b. Palatine bone (1 per side)
+            c. Maxillary bone (1 per side)
+            d. Inferior nasal concha (1 per side)
+            e. Nasal bone (1 per side)
+            f. Lacrimal bone (1 per side)
+            g. Vomer (1)
+            h. Mandible (1) -->
+
+</Defs>

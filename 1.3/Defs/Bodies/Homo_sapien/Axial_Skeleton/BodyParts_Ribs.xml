@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--========== RIBS ==========-->
+
+    <!-- 1. True Rib Bones
+            a. First rib (1 per side)
+            b. Second rib (1 per side)
+            c. Third rib (1 per side)
+            d. Fourth rib (1 per side)
+            e. Fifth rib (1 per side)
+            f. Sixth rib (1 per side)
+            g. Seventh rib (1 per side) -->
+
+    <!-- 2. False Rib Bones
+            a. Eighth rib (1 per side)
+            b. Ninth rib (1 per side)
+            c. Tenth rib (1 per side) -->
+
+    <!-- 3. Floating Rib Bones
+            a. Eleventh rib (1 per side)
+            b. Twelfth rib (1 per side) -->
+
+</Defs>
