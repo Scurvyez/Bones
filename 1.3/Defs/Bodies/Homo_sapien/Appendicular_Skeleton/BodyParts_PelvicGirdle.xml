@@ -6,4 +6,19 @@
     <!-- 1. Pelvic Bones
             a. Hip bones (1 per side) -->
 
+    <!--========== PELVIC BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Hip_Bone</defName>
+        <label>hip bone</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Pelvis</li>
+        </tags>
+    </BodyPartDef>
+
 </Defs>

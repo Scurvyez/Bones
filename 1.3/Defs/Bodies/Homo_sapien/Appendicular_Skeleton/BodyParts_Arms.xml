@@ -8,4 +8,45 @@
             b. Radius (1 per arm)
             c. Ulna (1 per arm) -->
 
+    <!--========== ARM BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Humerus</defName>
+        <label>humerus</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>ManipulationLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_Radius</defName>
+        <label>radius</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>ManipulationLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_Ulna</defName>
+        <label>ulna</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>ManipulationLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
 </Defs>

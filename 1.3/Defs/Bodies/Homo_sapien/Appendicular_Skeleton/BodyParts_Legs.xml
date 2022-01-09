@@ -9,4 +9,58 @@
             c. Tibia (1 per leg)
             d. Fibula (1 per leg) -->
 
+    <!--========== LEG BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Femur</defName>
+        <label>femur</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>MovingLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_Patella</defName>
+        <label>patella</label>
+        <hitPoints>16</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>MovingLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_Tibia</defName>
+        <label>tibia</label>
+        <hitPoints>18</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>MovingLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_Fibula</defName>
+        <label>fibula</label>
+        <hitPoints>16</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>MovingLimbSegment</li>
+        </tags>
+    </BodyPartDef>
+
 </Defs>
