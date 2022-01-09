@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-    <!--========== VERTEBRAL COLUMN ==========-->
+<!--========== VERTEBRAL COLUMN ==========-->
 
     <!-- 1. Cervical Spine Bones
             a. C1 (Atlas) (1)
@@ -38,5 +38,353 @@
 
     <!-- 5. Coccyx Bones
             a. Coccyx (Tailbone) (1) -->
+
+    <!--========== CERVICAL SPINE BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_C1</defName>
+        <label>c1 (Atlas)</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_C2</defName>
+        <label>c2 (Axis)</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_C3</defName>
+        <label>c3</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_C4</defName>
+        <label>c4</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_C5</defName>
+        <label>c5</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_C6</defName>
+        <label>c6</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_C7</defName>
+        <label>c7</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <!--========== THORACIC SPINE BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_T1</defName>
+        <label>t1</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T2</defName>
+        <label>t2</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T3</defName>
+        <label>t3</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T4</defName>
+        <label>t4</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T5</defName>
+        <label>t5</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T6</defName>
+        <label>t6</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T7</defName>
+        <label>t7</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T8</defName>
+        <label>t8</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T9</defName>
+        <label>t9</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T10</defName>
+        <label>t10</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T11</defName>
+        <label>t11</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_T12</defName>
+        <label>t12</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <!--========== LUMBAR SPINE BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_L1</defName>
+        <label>l1</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_L2</defName>
+        <label>l2</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_L3</defName>
+        <label>l3</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_L4</defName>
+        <label>l4</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <BodyPartDef>
+        <defName>SZ_L5</defName>
+        <label>l5</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <!--========== SACRUM BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Sacrum</defName>
+        <label>sacrum</label>
+        <hitPoints>10</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
+    <!--========== COCCYX BONES ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Coccyx</defName>
+        <label>coccyx (tailbone)</label>
+        <hitPoints>5</hitPoints>
+        <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>true</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
 
 </Defs>
