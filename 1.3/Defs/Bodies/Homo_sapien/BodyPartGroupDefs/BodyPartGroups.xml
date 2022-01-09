@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--========== WRIST GROUP ==========-->
+
+    <BodyPartGroupDef>
+        <defName>SZ_Wrists</defName>
+        <label>wrists</label>
+        <listOrder>81</listOrder>
+    </BodyPartGroupDef>
+
+</Defs>
