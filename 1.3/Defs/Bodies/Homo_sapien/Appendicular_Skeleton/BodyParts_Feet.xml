@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--========== ANKLES & FEET ==========-->
+
+    <!-- 1. Ankle Bones
+            a. Calcaneus (1 per ankle)
+            b. Talus (1 per ankle)
+            c. Cuboid (1 per ankle)
+            d. Navicular (1 per ankle)
+            e. Medial cuneiform (1 per ankle)
+            f. Intermediate cuneiform (1 per ankle)
+            g. Lateral cuneiform (1 per ankle) -->
+
+    <!-- 2. Foot Bones
+            a. Metatarsal (5 per foot)
+            b. Proximal phalange (5 per foot)
+            c. Intermediate phalange (4 per foot)
+            d. Distal phalange (5 per foot) -->
+
+</Defs>

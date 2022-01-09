@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--========== WRISTS & HANDS ==========-->
+
+    <!-- 1. Wrist Bones
+            a. Hamate (1 per wrist)
+            b. Pisiform (1 per wrist)
+            c. Triquetral (1 per wrist)
+            d. Lunate (1 per wrist)
+            e. Trapezoid (1 per wrist)
+            f. Trapezium (1 per wrist)
+            g. Scaphoid (1 per wrist)
+            h. Capitate (1 per wrist) -->
+
+    <!-- 2. Hand Bones
+            a. Metacarpal (5 per hand)
+            b. Proximal phalange (5 per hand)
+            c. Intermediate phalange (4 per hand)
+            d. Distal phalange (5 per hand) -->
+
+</Defs>
