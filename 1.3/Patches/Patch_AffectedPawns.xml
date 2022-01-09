@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+    <!--========== REPLACE HUMAN BODY PATCH ==========-->
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="Human"]/race/body</xpath>
+        <value>
+            <body>SZ_Homo_sapien</body>
+        </value>
+    </Operation>
+
+</Patch>

@@ -156,7 +156,7 @@
     </BodyPartDef>
 
     <BodyPartDef>
-        <defName>SZ_Proximal_Phalange</defName>
+        <defName>SZ_Proximal_Phalange_Hand</defName>
         <label>proximal phalange</label>
         <hitPoints>10</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
@@ -169,7 +169,7 @@
     </BodyPartDef>
 
     <BodyPartDef>
-        <defName>SZ_Intermediate_Phalange</defName>
+        <defName>SZ_Intermediate_Phalange_Hand</defName>
         <label>intermediate phalange</label>
         <hitPoints>10</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
@@ -182,7 +182,7 @@
     </BodyPartDef>
 
     <BodyPartDef>
-        <defName>SZ_Distal_Phalange</defName>
+        <defName>SZ_Distal_Phalange_Hand</defName>
         <label>distal phalange</label>
         <hitPoints>10</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
