@@ -15,7 +15,7 @@
             </groups>
             <parts>
                 <li>
-                    <def>Ribcage</def>
+                    <def>SZ_Ribcage</def>
                     <coverage>0.036</coverage>
                     <depth>Inside</depth>
                     <groups>
@@ -241,7 +241,7 @@
                     </parts>
                 </li>
                 <li>
-                    <def>Sternum</def>
+                    <def>SZ_Sternum</def>
                     <coverage>0.015</coverage>
                     <depth>Inside</depth>
                     <groups>
@@ -275,7 +275,7 @@
                     </parts>
                 </li>
                 <li>
-                    <def>Pelvis</def>
+                    <def>SZ_Pelvis</def>
                     <coverage>0.025</coverage>
                     <height>Bottom</height>
                     <depth>Inside</depth>
@@ -304,7 +304,7 @@
                     </parts>
                 </li>
                 <li>
-                    <def>Spine</def>
+                    <def>SZ_Spine</def>
                     <coverage>0.025</coverage>
                     <depth>Inside</depth>
                     <groups>
@@ -607,7 +607,7 @@
                             </groups>
                             <parts>
                                 <li>
-                                    <def>Skull</def>
+                                    <def>SZ_Skull</def>
                                     <coverage>0.18</coverage>
                                     <depth>Inside</depth>
                                     <groups>
@@ -982,7 +982,7 @@
                                     </groups>
                                 </li>
                                 <li>
-                                    <def>Jaw</def>
+                                    <def>SZ_Jaw</def>
                                     <coverage>0.15</coverage>
                                     <groups>
                                         <li>Teeth</li>

@@ -9,6 +9,22 @@
     <!--========== PELVIC BONES ==========-->
 
     <BodyPartDef>
+        <defName>SZ_Pelvis</defName>
+        <label>pelvis</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>Pelvis</li>
+        </tags>
+        <destroyableByDamage>false</destroyableByDamage>
+    </BodyPartDef>
+
+    <!--========== PELVIC BONES ==========-->
+
+    <BodyPartDef>
         <defName>SZ_Hip_Bone</defName>
         <label>hip bone</label>
         <hitPoints>25</hitPoints>

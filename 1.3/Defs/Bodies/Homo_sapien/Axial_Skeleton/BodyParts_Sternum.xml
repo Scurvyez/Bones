@@ -8,6 +8,22 @@
             b. Body (1)
             c. Xiphoid process (1) -->
 
+    <!--========== STERNUM PART ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Sternum</defName>
+        <label>sternum</label>
+        <hitPoints>20</hitPoints>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>BreathingSourceCage</li>
+        </tags>
+        <destroyableByDamage>false</destroyableByDamage>
+    </BodyPartDef>
+
     <!--========== STERNUM BONES ==========-->
 
     <BodyPartDef>

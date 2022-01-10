@@ -21,6 +21,38 @@
             g. Vomer (1)
             h. Mandible (1) -->
 
+    <!--========== SKULL PART ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Skull</defName>
+        <label>skull</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>false</solid>
+        <canSuggestAmputation>false</canSuggestAmputation>
+        <bleedRate>0</bleedRate>
+        <destroyableByDamage>false</destroyableByDamage>
+    </BodyPartDef>
+
+    <!--========== JAW PART ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Jaw</defName>
+        <label>jaw</label>
+        <hitPoints>20</hitPoints>
+        <frostbiteVulnerability>2</frostbiteVulnerability>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>false</solid>
+        <beautyRelated>true</beautyRelated>
+        <bleedRate>0</bleedRate>
+        <tags>
+          <li>EatingSource</li>
+          <li>TalkingSource</li>
+        </tags>
+      </BodyPartDef>
+
     <!--========== CRANIAL BONES ==========-->
 
     <BodyPartDef>

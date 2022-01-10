@@ -21,6 +21,22 @@
             a. Eleventh rib (1 per side)
             b. Twelfth rib (1 per side) -->
 
+    <!--========== RIBCAGE PART ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Ribcage</defName>
+        <label>ribcage</label>
+        <hitPoints>30</hitPoints>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <tags>
+            <li>BreathingSourceCage</li>
+        </tags>
+        <destroyableByDamage>false</destroyableByDamage>
+    </BodyPartDef>
+
     <!--========== TRUE RIB BONES ==========-->
 
     <BodyPartDef>

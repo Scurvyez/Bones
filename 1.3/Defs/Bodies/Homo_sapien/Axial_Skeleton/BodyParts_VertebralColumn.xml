@@ -39,6 +39,22 @@
     <!-- 5. Coccyx Bones
             a. Coccyx (Tailbone) (1) -->
 
+    <!--========== SPINE PART ==========-->
+
+    <BodyPartDef>
+        <defName>SZ_Spine</defName>
+        <label>spine</label>
+        <hitPoints>25</hitPoints>
+        <permanentInjuryChanceFactor>6</permanentInjuryChanceFactor>
+        <skinCovered>false</skinCovered>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <canSuggestAmputation>false</canSuggestAmputation>
+        <tags>
+            <li>Spine</li>
+        </tags>
+    </BodyPartDef>
+
     <!--========== CERVICAL SPINE BONES ==========-->
 
     <BodyPartDef>
