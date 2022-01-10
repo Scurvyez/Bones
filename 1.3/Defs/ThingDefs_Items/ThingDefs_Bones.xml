@@ -36,7 +36,7 @@
         <descriptionHyperlinks><RecipeDef>TransplantHumanUlna</RecipeDef></descriptionHyperlinks>
         <statBases>
             <MarketValue>110</MarketValue>
-            <Mass>1.25</Mass>
+            <Mass>1.10</Mass>
         </statBases>
     </ThingDef>
 

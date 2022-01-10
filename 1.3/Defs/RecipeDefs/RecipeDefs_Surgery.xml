@@ -3,8 +3,8 @@
 
     <!--========== BONE SURGERY RECIPE BASE ==========-->
 
-    <RecipeDef Name="SurgeryTransplantBoneBase" ParentName="SurgeryFlesh" Abstract="True">
-        <workerClass>Recipe_InstallImplant</workerClass>
+    <RecipeDef Name="SurgeryTransplantHumanBoneBase" ParentName="SurgeryFlesh" Abstract="True">
+        <workerClass>Recipe_InstallNaturalBodyPart</workerClass>
         <workAmount>2500</workAmount>
         <skillRequirements>
             <Medicine>3</Medicine>
@@ -15,7 +15,7 @@
         <ingredients>
             <li>
                 <filter><categories><li>Medicine</li></categories></filter>
-                <count>2</count>
+                <count>1</count>
             </li>
         </ingredients>
         <fixedIngredientFilter>
@@ -23,10 +23,6 @@
                 <li>Medicine</li>
             </categories>
         </fixedIngredientFilter>
-    </RecipeDef>
-
-    <RecipeDef Name="SurgeryTransplantHumanBoneBase" ParentName="SurgeryTransplantBoneBase" Abstract="True">
-        <workerClass>Recipe_InstallNaturalBodyPart</workerClass>
     </RecipeDef>
 
     <!--========== HUMERUS SURGERY RECIPE ==========-->
