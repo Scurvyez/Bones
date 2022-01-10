@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--========== HUMERUS ==========-->
+
+    <ThingDef ParentName="BodyPartNaturalBase">
+        <defName>SZ_Humerus</defName>
+        <label>humerus</label>
+        <description>The upper arm bone. It runs from the scapula to the elbow.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanHumerus</RecipeDef></descriptionHyperlinks>
+        <statBases>
+            <MarketValue>150</MarketValue>
+            <Mass>2.00</Mass>
+        </statBases>
+    </ThingDef>
+
+    <!--========== RADIUS ==========-->
+
+    <ThingDef ParentName="BodyPartNaturalBase">
+        <defName>SZ_Radius</defName>
+        <label>radius</label>
+        <description>One of two forearm bones. Aids in wrist articulation and is connected to the humerus above.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanRadius</RecipeDef></descriptionHyperlinks>
+        <statBases>
+            <MarketValue>110</MarketValue>
+            <Mass>1.25</Mass>
+        </statBases>
+    </ThingDef>
+
+    <!--========== ULNA ==========-->
+
+    <ThingDef ParentName="BodyPartNaturalBase">
+        <defName>SZ_Ulna</defName>
+        <label>ulna</label>
+        <description>The thinner of the forearm bones. Aids in arm rotation in conjunction with the wrist and is connected to the humerus above.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanUlna</RecipeDef></descriptionHyperlinks>
+        <statBases>
+            <MarketValue>110</MarketValue>
+            <Mass>1.25</Mass>
+        </statBases>
+    </ThingDef>
+
+</Defs>

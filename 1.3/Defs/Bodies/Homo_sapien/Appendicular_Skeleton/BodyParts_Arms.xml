@@ -13,7 +13,7 @@
     <BodyPartDef>
         <defName>SZ_Humerus</defName>
         <label>humerus</label>
-        <hitPoints>25</hitPoints>
+        <hitPoints>20</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
@@ -26,7 +26,7 @@
     <BodyPartDef>
         <defName>SZ_Radius</defName>
         <label>radius</label>
-        <hitPoints>25</hitPoints>
+        <hitPoints>18</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
@@ -39,7 +39,7 @@
     <BodyPartDef>
         <defName>SZ_Ulna</defName>
         <label>ulna</label>
-        <hitPoints>25</hitPoints>
+        <hitPoints>16</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
