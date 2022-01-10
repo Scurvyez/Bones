@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bones/Harmony/Bones_GetHediffDefFromDamage_Patch.cs">
+    <Files>
+      <File FileName="Bones/packages.config" Line="1" Column="1" />
+      <File FileName="Bones/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Bones/Harmony/HarmonyInstance.cs" Line="1" Column="1" />
+      <File FileName="Bones/Harmony/Bones_GetHediffDefFromDamage_Patch.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bones" expanded="True">
+            <Node name="Bones" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Harmony" expanded="True">
+                <Node name="Bones_GetHediffDefFromDamage_Patch.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
