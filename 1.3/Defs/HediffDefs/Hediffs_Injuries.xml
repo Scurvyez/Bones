@@ -10,7 +10,7 @@
         <defName>SZ_Stable_Fracture</defName>
         <label>stable fracture</label>
         <labelNoun>a stable fracture</labelNoun>
-        <description>A stable fracture.</description>
+        <description>The broken ends of the bone line up and are barely out of place.</description>
         <comps>
             <li Class="HediffCompProperties_TendDuration">
                 <labelTendedWell>set</labelTendedWell>
@@ -33,7 +33,7 @@
         <defName>SZ_Compound_Fracture</defName>
         <label>compound fracture</label>
         <labelNoun>a compound fracture</labelNoun>
-        <description>A compound fracture.</description>
+        <description>The skin may be pierced by the bone or by a blow that breaks the skin at the time of the fracture. The bone may or may not be visible in the wound.</description>
         <comps>
             <li Class="HediffCompProperties_TendDuration">
                 <labelTendedWell>set</labelTendedWell>
@@ -55,7 +55,7 @@
         <defName>SZ_Transverse_Fracture</defName>
         <label>transverse fracture</label>
         <labelNoun>a transverse fracture</labelNoun>
-        <description>A transverse fracture.</description>
+        <description>This type of fracture has a horizontal fracture line.</description>
         <comps>
             <li Class="HediffCompProperties_TendDuration">
                 <labelTendedWell>set</labelTendedWell>
@@ -77,7 +77,7 @@
         <defName>SZ_Oblique_Fracture</defName>
         <label>oblique fracture</label>
         <labelNoun>an oblique fracture</labelNoun>
-        <description>An oblique fracture.</description>
+        <description>This type of fracture has an angled pattern.</description>
         <comps>
             <li Class="HediffCompProperties_TendDuration">
                 <labelTendedWell>set</labelTendedWell>
@@ -99,7 +99,7 @@
         <defName>SZ_Comminuted_Fracture</defName>
         <label>comminuted fracture</label>
         <labelNoun>a comminuted fracture</labelNoun>
-        <description>A comminuted fracture.</description>
+        <description>In this type of fracture, the bone shatters into three or more pieces.</description>
         <comps>
             <li Class="HediffCompProperties_TendDuration">
                 <labelTendedWell>set</labelTendedWell>
