@@ -28,6 +28,7 @@
         <label>ribcage</label>
         <hitPoints>30</hitPoints>
         <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        
         <skinCovered>false</skinCovered>
         <solid>false</solid>
         <bleedRate>0</bleedRate>
@@ -44,6 +45,7 @@
         <label>first rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -57,6 +59,7 @@
         <label>second rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -70,6 +73,7 @@
         <label>third rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -83,6 +87,7 @@
         <label>fourth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -96,6 +101,7 @@
         <label>fifth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -109,6 +115,7 @@
         <label>sixth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -122,6 +129,7 @@
         <label>seventh rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -137,6 +145,7 @@
         <label>eighth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -150,6 +159,7 @@
         <label>ninth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -163,6 +173,7 @@
         <label>tenth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -178,6 +189,7 @@
         <label>eleventh rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -191,6 +203,7 @@
         <label>twelfth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>

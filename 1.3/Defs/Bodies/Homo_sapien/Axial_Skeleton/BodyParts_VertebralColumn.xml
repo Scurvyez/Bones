@@ -46,6 +46,7 @@
         <label>spine</label>
         <hitPoints>25</hitPoints>
         <permanentInjuryChanceFactor>6</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>false</solid>
         <bleedRate>0</bleedRate>
@@ -62,6 +63,7 @@
         <label>c1 (Atlas)</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -75,6 +77,7 @@
         <label>c2 (Axis)</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -88,6 +91,7 @@
         <label>c3</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -101,6 +105,7 @@
         <label>c4</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -114,6 +119,7 @@
         <label>c5</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -127,6 +133,7 @@
         <label>c6</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -140,6 +147,7 @@
         <label>c7</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -155,6 +163,7 @@
         <label>t1</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -168,6 +177,7 @@
         <label>t2</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -181,6 +191,7 @@
         <label>t3</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -194,6 +205,7 @@
         <label>t4</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -207,6 +219,7 @@
         <label>t5</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -220,6 +233,7 @@
         <label>t6</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -233,6 +247,7 @@
         <label>t7</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -246,6 +261,7 @@
         <label>t8</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -259,6 +275,7 @@
         <label>t9</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -272,6 +289,7 @@
         <label>t10</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -285,6 +303,7 @@
         <label>t11</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -298,6 +317,7 @@
         <label>t12</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -313,6 +333,7 @@
         <label>l1</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -326,6 +347,7 @@
         <label>l2</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -339,6 +361,7 @@
         <label>l3</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -352,6 +375,7 @@
         <label>l4</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -365,6 +389,7 @@
         <label>l5</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -380,6 +405,7 @@
         <label>sacrum</label>
         <hitPoints>10</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -395,6 +421,7 @@
         <label>coccyx (tailbone)</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
