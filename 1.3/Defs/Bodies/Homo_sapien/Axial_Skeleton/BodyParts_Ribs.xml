@@ -28,7 +28,6 @@
         <label>ribcage</label>
         <hitPoints>30</hitPoints>
         <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
-        
         <skinCovered>false</skinCovered>
         <solid>false</solid>
         <bleedRate>0</bleedRate>
@@ -45,7 +44,7 @@
         <label>first rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_First_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -59,7 +58,7 @@
         <label>second rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Second_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -73,7 +72,7 @@
         <label>third rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Third_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -87,7 +86,7 @@
         <label>fourth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Fourth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -101,7 +100,7 @@
         <label>fifth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Fifth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -115,7 +114,7 @@
         <label>sixth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Sixth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -129,7 +128,7 @@
         <label>seventh rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Seventh_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -145,7 +144,7 @@
         <label>eighth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Eighth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -159,7 +158,7 @@
         <label>ninth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Ninth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -173,7 +172,7 @@
         <label>tenth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Tenth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -189,7 +188,7 @@
         <label>eleventh rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Eleventh_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -203,7 +202,7 @@
         <label>twelfth rib</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Twelfth_Rib</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>

@@ -15,7 +15,7 @@
         <label>humerus</label>
         <hitPoints>20</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Humerus</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -29,7 +29,7 @@
         <label>radius</label>
         <hitPoints>18</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Radius</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -43,7 +43,7 @@
         <label>ulna</label>
         <hitPoints>16</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Ulna</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>

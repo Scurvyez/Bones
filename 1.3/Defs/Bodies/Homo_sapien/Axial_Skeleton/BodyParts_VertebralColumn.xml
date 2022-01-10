@@ -63,7 +63,7 @@
         <label>c1 (Atlas)</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_one</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -77,7 +77,7 @@
         <label>c2 (Axis)</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_two</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -91,7 +91,7 @@
         <label>c3</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_three</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -105,7 +105,7 @@
         <label>c4</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_four</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -119,7 +119,7 @@
         <label>c5</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_five</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -133,7 +133,7 @@
         <label>c6</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_six</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -147,7 +147,7 @@
         <label>c7</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_C_seven</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -163,7 +163,7 @@
         <label>t1</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_one</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -177,7 +177,7 @@
         <label>t2</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_two</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -191,7 +191,7 @@
         <label>t3</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_three</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -205,7 +205,7 @@
         <label>t4</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_four</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -219,7 +219,7 @@
         <label>t5</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_five</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -233,7 +233,7 @@
         <label>t6</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_six</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -247,7 +247,7 @@
         <label>t7</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_seven</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -261,7 +261,7 @@
         <label>t8</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_eight</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -275,7 +275,7 @@
         <label>t9</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_nine</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -289,7 +289,7 @@
         <label>t10</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_ten</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -303,7 +303,7 @@
         <label>t11</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_eleven</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -317,7 +317,7 @@
         <label>t12</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_T_twelve</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -333,7 +333,7 @@
         <label>l1</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_L_one</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -347,7 +347,7 @@
         <label>l2</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_L_two</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -361,7 +361,7 @@
         <label>l3</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_L_three</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -375,7 +375,7 @@
         <label>l4</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_L_four</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -389,7 +389,7 @@
         <label>l5</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_L_five</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -405,7 +405,7 @@
         <label>sacrum</label>
         <hitPoints>10</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Sacrum</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -421,7 +421,7 @@
         <label>coccyx (tailbone)</label>
         <hitPoints>5</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Coccyx</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>

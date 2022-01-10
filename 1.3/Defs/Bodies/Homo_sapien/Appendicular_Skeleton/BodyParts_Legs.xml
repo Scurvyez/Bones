@@ -16,7 +16,7 @@
         <label>femur</label>
         <hitPoints>25</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Femur</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -30,7 +30,7 @@
         <label>patella</label>
         <hitPoints>16</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Patella</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -44,7 +44,7 @@
         <label>tibia</label>
         <hitPoints>18</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Tibia</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>
@@ -58,7 +58,7 @@
         <label>fibula</label>
         <hitPoints>16</hitPoints>
         <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
+        <spawnThingOnRemoved>SZ_Fibula</spawnThingOnRemoved>
         <skinCovered>false</skinCovered>
         <solid>true</solid>
         <bleedRate>0</bleedRate>

@@ -11,6 +11,15 @@
     <description>
 Discord: Steve o.O#1151
 steam: Scurvyez
+
+Have you ever felt like vanilla humans lacked an appropriate skeletal structure?
+Yeah... me neither.
+
+With Bones, every humanlike pawn now comes with all 206 bones found in the human body.
+Want to watch those new bone fractures roll in during combat? Or surgically remove the vertebrae from an unruly colonist? Maybe human bones can be your colony's next big export?!
+Bones gives you more dastardly sadistic control and pleasure than you ever thought you needed.
+
+Have fun and thanks for giving this mess of a mod a shot! :)
     </description>
 
     <loadAfter>
@@ -26,6 +35,7 @@ steam: Scurvyez
         [DONE] Add 5 new local injuries (types of bone fractures).
         Casts(?) & quick field splints in a pinch(?)
         [DONE] Make it so bones aren’t always outright destroyed every time.
-        Surgery recipes for all transplantable bones.
+        [DONE] Surgery recipes for all transplantable bones.
         Corpses' give bones(?) & new thingCategory(?)
-        Add a chance for the elderly or weak to randomly break bones. lol -->
+        Add a chance for the elderly or weak to randomly break bones. lol
+        Finish all ThingDefs_Bones.xml descriptions. -->
