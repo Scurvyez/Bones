@@ -53,6 +53,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenerateRandomOldAgeInjuries.cs" />
+    <Compile Include="DefOf\Bones_BodyPartTagDefOf.cs" />
+    <Compile Include="ThoughtWorkers\ThoughtWorker_MissingArmBone.cs" />
+    <Compile Include="ThoughtWorkers\ThoughtWorker_MissingRib.cs" />
+    <Compile Include="ThoughtWorkers\ThoughtWorker_MissingVertebrae.cs" />
+    <Compile Include="ThoughtWorkers\ThoughtWorker_MissingLegBone.cs" />
     <Compile Include="Harmony\Bones_GetHediffDefFromDamage_Patch.cs" />
     <Compile Include="Harmony\HarmonyInstance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

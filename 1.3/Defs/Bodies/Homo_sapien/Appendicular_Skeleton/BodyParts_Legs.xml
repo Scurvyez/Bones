@@ -22,6 +22,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>MovingLimbSegment</li>
+            <li>SZ_LegBone_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -36,6 +37,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>MovingLimbSegment</li>
+            <li>SZ_LegBone_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -50,6 +52,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>MovingLimbSegment</li>
+            <li>SZ_LegBone_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -64,6 +67,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>MovingLimbSegment</li>
+            <li>SZ_LegBone_Tag</li>
         </tags>
     </BodyPartDef>
 

@@ -21,6 +21,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>ManipulationLimbSegment</li>
+            <li>SZ_ArmBone_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -35,6 +36,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>ManipulationLimbSegment</li>
+            <li>SZ_ArmBone_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -49,6 +51,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>ManipulationLimbSegment</li>
+            <li>SZ_ArmBone_Tag</li>
         </tags>
     </BodyPartDef>
 

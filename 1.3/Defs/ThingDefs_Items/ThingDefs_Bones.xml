@@ -237,7 +237,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_one</defName>
         <label>c1 (Atlas)</label>
-        <description>PLACEHOLED</description>
+        <description>Commonly known as the "Atlas", this bone supports the skull and acts as the superior-most vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -249,7 +249,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_two</defName>
         <label>c2 (Axis)</label>
-        <description>PLACEHOLED</description>
+        <description>The second vertebra from the top of the spine. Referred to as the "Axis", it allows the Atlas to pivot.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -261,7 +261,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_three</defName>
         <label>c3</label>
-        <description>PLACEHOLED</description>
+        <description>Aids in head and neck control and stability.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -273,7 +273,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_four</defName>
         <label>c4</label>
-        <description>PLACEHOLED</description>
+        <description>The fourth vertebra down.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -285,7 +285,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_five</defName>
         <label>c5</label>
-        <description>PLACEHOLED</description>
+        <description>The fifth vertebra down. It allows spinal motion, in conjunction with the c6.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -297,7 +297,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_six</defName>
         <label>c6</label>
-        <description>PLACEHOLED</description>
+        <description>The sixth vertebra down. Aids in spinal motion alongside the c5.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -309,7 +309,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_C_seven</defName>
         <label>c7</label>
-        <description>PLACEHOLED</description>
+        <description>The seventh vertebra down. It is the largest of the cervical spine segment.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -321,7 +321,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_one</defName>
         <label>t1</label>
-        <description>PLACEHOLED</description>
+        <description>The first and smallest bone in the thoracic spine.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -333,7 +333,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_two</defName>
         <label>t2</label>
-        <description>PLACEHOLED</description>
+        <description>The second thoracic vertebra is larger than the first thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -345,7 +345,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_three</defName>
         <label>t3</label>
-        <description>PLACEHOLED</description>
+        <description>The third thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -357,7 +357,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_four</defName>
         <label>t4</label>
-        <description>PLACEHOLED</description>
+        <description>The fourth thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -369,7 +369,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_five</defName>
         <label>t5</label>
-        <description>PLACEHOLED</description>
+        <description>The fifth thoracic vertebra. The human trachea splits into two main bronchi here.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -381,7 +381,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_six</defName>
         <label>t6</label>
-        <description>PLACEHOLED</description>
+        <description>The sixth thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -393,7 +393,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_seven</defName>
         <label>t7</label>
-        <description>PLACEHOLED</description>
+        <description>The seventh thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -405,7 +405,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_eight</defName>
         <label>t8</label>
-        <description>PLACEHOLED</description>
+        <description>The eighth thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -417,7 +417,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_nine</defName>
         <label>t9</label>
-        <description>PLACEHOLED</description>
+        <description>The seventh thoracic vertebra. The xiphoid process is at the same level.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -429,7 +429,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_ten</defName>
         <label>t10</label>
-        <description>PLACEHOLED</description>
+        <description>The tenth thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -441,7 +441,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_eleven</defName>
         <label>t11</label>
-        <description>PLACEHOLED</description>
+        <description>The eleventh thoracic vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -453,7 +453,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_T_twelve</defName>
         <label>t12</label>
-        <description>PLACEHOLED</description>
+        <description>The last segment of the thoracic spine. The t12 bears the most weight of this segment of the spine.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -465,7 +465,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_L_one</defName>
         <label>l1</label>
-        <description>PLACEHOLED</description>
+        <description>The first lumbar vertebra. It is level with the ninth rib.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -477,7 +477,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_L_two</defName>
         <label>l2</label>
-        <description>PLACEHOLED</description>
+        <description>The second lumbar vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -489,7 +489,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_L_three</defName>
         <label>l3</label>
-        <description>PLACEHOLED</description>
+        <description>The third lumbar vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -501,7 +501,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_L_four</defName>
         <label>l4</label>
-        <description>PLACEHOLED</description>
+        <description>The fourth lumbar vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -513,7 +513,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_L_five</defName>
         <label>l5</label>
-        <description>PLACEHOLED</description>
+        <description>The fifth lumbar vertebra. It is the largest of the lumbar vertebra.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -525,7 +525,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_Sacrum</defName>
         <label>sacrum</label>
-        <description>PLACEHOLED</description>
+        <description>The sacrum is a shield-shaped bony structure that is located at the base of the lumbar vertebrae and that is connected to the pelvis.</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>
@@ -537,7 +537,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_Coccyx</defName>
         <label>coccyx (tailbone)</label>
-        <description>PLACEHOLED</description>
+        <description>Also known as the tail bone, it is part of the "tripod". The tripod is a group of internal body parts that provide weight-bearing support in the seated position</description>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.15</Mass>

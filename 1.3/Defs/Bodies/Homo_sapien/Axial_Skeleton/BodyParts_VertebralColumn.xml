@@ -46,13 +46,13 @@
         <label>spine</label>
         <hitPoints>25</hitPoints>
         <permanentInjuryChanceFactor>6</permanentInjuryChanceFactor>
-        <forceAlwaysRemovable>true</forceAlwaysRemovable>
         <skinCovered>false</skinCovered>
         <solid>false</solid>
         <bleedRate>0</bleedRate>
         <canSuggestAmputation>false</canSuggestAmputation>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -69,6 +69,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -83,6 +84,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -97,6 +99,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -111,6 +114,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -125,6 +129,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -139,6 +144,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -153,6 +159,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -169,6 +176,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -183,6 +191,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -197,6 +206,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -211,6 +221,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -225,6 +236,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -239,6 +251,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -253,6 +266,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -267,6 +281,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -281,6 +296,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -295,6 +311,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -309,6 +326,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -323,6 +341,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -339,6 +358,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -353,6 +373,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -367,6 +388,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -381,6 +403,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -395,6 +418,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -411,6 +435,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 
@@ -427,6 +452,7 @@
         <bleedRate>0</bleedRate>
         <tags>
             <li>Spine</li>
+            <li>SZ_Vertebrae_Tag</li>
         </tags>
     </BodyPartDef>
 

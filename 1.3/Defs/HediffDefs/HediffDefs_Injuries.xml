@@ -110,28 +110,7 @@
         <injuryProps>
             <painPerSeverity>0.01</painPerSeverity>
             <averagePainPerSeverityPermanent>0.00625</averagePainPerSeverityPermanent>
-            <destroyedLabel>Shattered</destroyedLabel>
-        </injuryProps>
-    </HediffDef>
-
-    <!--========== REMOVED BONE ==========-->
-
-    <HediffDef ParentName="InjuryBase">
-        <defName>SZ_Removed_Bone</defName>
-        <label>removed bone</label>
-        <labelNoun>a removed bone</labelNoun>
-        <description>This bone was removed via surgery.</description>
-        <!-- <comps>
-            <li Class="HediffCompProperties_TendDuration">
-                <labelTendedWell>set</labelTendedWell>
-                <labelTendedWellInner>set</labelTendedWellInner>
-                <labelSolidTendedWell>set</labelSolidTendedWell>
-            </li>
-        </comps> -->
-        <injuryProps>
-            <painPerSeverity>0.01</painPerSeverity>
-            <averagePainPerSeverityPermanent>0.00625</averagePainPerSeverityPermanent>
-            <destroyedLabel>Removed</destroyedLabel>
+            <destroyedLabel>Reduced to dust</destroyedLabel>
         </injuryProps>
     </HediffDef>
 
