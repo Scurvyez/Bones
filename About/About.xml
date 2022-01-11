@@ -25,6 +25,7 @@ Have fun and thanks for giving this mess of a mod a shot! :)
     <loadAfter>
         <li>Ludeon.RimWorld</li>
         <li>brrainz.harmony</li>
+        <li>CETeam.CombatExtended</li>
     </loadAfter>
 
 </ModMetaData>
