@@ -46,6 +46,7 @@
         <defName>SZ_Femur</defName>
         <label>femur</label>
         <description>The longest, heaviest, and strongest bone in the body. It supports stability and is weight bearing.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanFemur</RecipeDef></descriptionHyperlinks>
         <statBases>
             <MarketValue>175</MarketValue>
             <Mass>2.10</Mass>
@@ -58,6 +59,7 @@
         <defName>SZ_Patella</defName>
         <label>patella</label>
         <description>The patella, or knee cap, assists in the extension capacity of the leg.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanPatella</RecipeDef></descriptionHyperlinks>
         <statBases>
             <MarketValue>50</MarketValue>
             <Mass>0.50</Mass>
@@ -70,6 +72,7 @@
         <defName>SZ_Tibia</defName>
         <label>tibia</label>
         <description>The second largest bone in the body. It aids in bearing the weight of the human body.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanTibia</RecipeDef></descriptionHyperlinks>
         <statBases>
             <MarketValue>125</MarketValue>
             <Mass>1.50</Mass>
@@ -82,6 +85,7 @@
         <defName>SZ_Fibula</defName>
         <label>fibula</label>
         <description>This bone, in conjunction with the tibia, assists in the stability of the ankle joint.</description>
+        <descriptionHyperlinks><RecipeDef>TransplantHumanFibula</RecipeDef></descriptionHyperlinks>
         <statBases>
             <MarketValue>125</MarketValue>
             <Mass>1.25</Mass>
