@@ -229,7 +229,7 @@
     <ThingDef ParentName="BodyPartNaturalBase">
         <defName>SZ_Twelfth_Rib</defName>
         <label>twelfth rib</label>
-        <description>The lower floating rib. Connected directly to the vertebrae.</description>
+        <description>The lowest floating rib. Connected directly to the vertebrae.</description>
         <statBases>
             <MarketValue>125</MarketValue>
             <Mass>1.00</Mass>

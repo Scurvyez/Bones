@@ -16,7 +16,7 @@
             <parts>
                 <li>
                     <def>SZ_Ribcage</def>
-                    <coverage>0.036</coverage>
+                    <coverage>0.12</coverage>
                     <depth>Inside</depth>
                     <groups>
                         <li>Torso</li>
@@ -242,7 +242,7 @@
                 </li>
                 <li>
                     <def>SZ_Sternum</def>
-                    <coverage>0.015</coverage>
+                    <coverage>0.035</coverage>
                     <depth>Inside</depth>
                     <groups>
                         <li>Torso</li>
@@ -250,7 +250,7 @@
                     <parts>
                         <li>
                             <def>SZ_Manubrium</def>
-                            <coverage>0.05</coverage>
+                            <coverage>0.25</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -258,7 +258,7 @@
                         </li>
                         <li>
                             <def>SZ_Body</def>
-                            <coverage>0.05</coverage>
+                            <coverage>0.40</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -266,7 +266,7 @@
                         </li>
                         <li>
                             <def>SZ_Xiphoid_Process</def>
-                            <coverage>0.05</coverage>
+                            <coverage>0.20</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -276,7 +276,7 @@
                 </li>
                 <li>
                     <def>SZ_Pelvis</def>
-                    <coverage>0.025</coverage>
+                    <coverage>0.03</coverage>
                     <height>Bottom</height>
                     <depth>Inside</depth>
                     <groups>
@@ -286,7 +286,7 @@
                         <li>
                             <def>SZ_Hip_Bone</def>
                             <customLabel>left hip bone</customLabel>
-                            <coverage>0.0125</coverage>
+                            <coverage>0.25</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -295,7 +295,7 @@
                         <li>
                             <def>SZ_Hip_Bone</def>
                             <customLabel>right hip bone</customLabel>
-                            <coverage>0.0125</coverage>
+                            <coverage>0.25</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -313,7 +313,7 @@
                     <parts>
                         <li>
                             <def>SZ_C1</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -321,7 +321,7 @@
                         </li>
                         <li>
                             <def>SZ_C2</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -329,7 +329,7 @@
                         </li>
                         <li>
                             <def>SZ_C3</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -337,7 +337,7 @@
                         </li>
                         <li>
                             <def>SZ_C4</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -345,7 +345,7 @@
                         </li>
                         <li>
                             <def>SZ_C5</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -353,7 +353,7 @@
                         </li>
                         <li>
                             <def>SZ_C6</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -361,7 +361,7 @@
                         </li>
                         <li>
                             <def>SZ_C7</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -369,7 +369,7 @@
                         </li>
                         <li>
                             <def>SZ_T1</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -377,7 +377,7 @@
                         </li>
                         <li>
                             <def>SZ_T2</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -385,7 +385,7 @@
                         </li>
                         <li>
                             <def>SZ_T3</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -393,7 +393,7 @@
                         </li>
                         <li>
                             <def>SZ_T4</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -401,7 +401,7 @@
                         </li>
                         <li>
                             <def>SZ_T5</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -409,7 +409,7 @@
                         </li>
                         <li>
                             <def>SZ_T6</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -417,7 +417,7 @@
                         </li>
                         <li>
                             <def>SZ_T7</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -425,7 +425,7 @@
                         </li>
                         <li>
                             <def>SZ_T8</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -433,7 +433,7 @@
                         </li>
                         <li>
                             <def>SZ_T9</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -441,7 +441,7 @@
                         </li>
                         <li>
                             <def>SZ_T10</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -449,7 +449,7 @@
                         </li>
                         <li>
                             <def>SZ_T11</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -457,7 +457,7 @@
                         </li>
                         <li>
                             <def>SZ_T12</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -465,7 +465,7 @@
                         </li>
                         <li>
                             <def>SZ_L1</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -473,7 +473,7 @@
                         </li>
                         <li>
                             <def>SZ_L2</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -481,7 +481,7 @@
                         </li>
                         <li>
                             <def>SZ_L3</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -489,7 +489,7 @@
                         </li>
                         <li>
                             <def>SZ_L4</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -497,7 +497,7 @@
                         </li>
                         <li>
                             <def>SZ_L5</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -505,7 +505,7 @@
                         </li>
                         <li>
                             <def>SZ_Sacrum</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -513,7 +513,7 @@
                         </li>
                         <li>
                             <def>SZ_Coccyx</def>
-                            <coverage>0.005</coverage>
+                            <coverage>0.01</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Torso</li>
@@ -627,7 +627,7 @@
                                         </li>
                                         <li>
                                             <def>SZ_Occipital_Bone</def>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -637,7 +637,7 @@
                                         <li>
                                             <def>SZ_Parietal_Bone</def>
                                             <customLabel>left parietal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -647,7 +647,7 @@
                                         <li>
                                             <def>SZ_Parietal_Bone</def>
                                             <customLabel>right parietal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -657,7 +657,7 @@
                                         <li>
                                             <def>SZ_Temporal_Bone</def>
                                             <customLabel>left temporal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -667,7 +667,7 @@
                                         <li>
                                             <def>SZ_Temporal_Bone</def>
                                             <customLabel>right temporal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -676,7 +676,7 @@
                                         </li>
                                         <li>
                                             <def>SZ_Frontal_Bone</def>
-                                            <coverage>0.05</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -685,7 +685,7 @@
                                         </li>
                                         <li>
                                             <def>SZ_Sphenoid_Bone</def>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -694,7 +694,7 @@
                                         </li>
                                         <li>
                                             <def>SZ_Ethmoid_Bone</def>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -704,7 +704,7 @@
                                         <li>
                                             <def>SZ_Zygomatic_Bone</def>
                                             <customLabel>left zygomatic bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -714,7 +714,7 @@
                                         <li>
                                             <def>SZ_Zygomatic_Bone</def>
                                             <customLabel>right zygomatic bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -724,7 +724,7 @@
                                         <li>
                                             <def>SZ_Palatine_Bone</def>
                                             <customLabel>left palatine bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -734,7 +734,7 @@
                                         <li>
                                             <def>SZ_Palatine_Bone</def>
                                             <customLabel>right palatine bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -744,7 +744,7 @@
                                         <li>
                                             <def>SZ_Inferior_Nasal_Concha</def>
                                             <customLabel>left inferior nasal concha</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -754,7 +754,7 @@
                                         <li>
                                             <def>SZ_Inferior_Nasal_Concha</def>
                                             <customLabel>right inferior nasal concha</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -764,7 +764,7 @@
                                         <li>
                                             <def>SZ_Nasal_Bone</def>
                                             <customLabel>left nasal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -774,7 +774,7 @@
                                         <li>
                                             <def>SZ_Nasal_Bone</def>
                                             <customLabel>right nasal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -784,7 +784,7 @@
                                         <li>
                                             <def>SZ_Lacrimal_Bone</def>
                                             <customLabel>left lacrimal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -794,7 +794,7 @@
                                         <li>
                                             <def>SZ_Lacrimal_Bone</def>
                                             <customLabel>right lacrimal bone</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -803,7 +803,7 @@
                                         </li>
                                         <li>
                                             <def>SZ_Vomer</def>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.01</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -844,7 +844,7 @@
                                         <li>
                                             <def>SZ_Vestibule</def>
                                             <customLabel>left vestibule</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -854,7 +854,7 @@
                                         <li>
                                             <def>SZ_Cochlea</def>
                                             <customLabel>left cochlea</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -864,7 +864,7 @@
                                         <li>
                                             <def>SZ_Semi_Circular_Canals</def>
                                             <customLabel>left semi circular canals</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -874,7 +874,7 @@
                                         <li>
                                             <def>SZ_Malleus</def>
                                             <customLabel>left malleus</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -884,7 +884,7 @@
                                         <li>
                                             <def>SZ_Incus</def>
                                             <customLabel>left incus</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -894,7 +894,7 @@
                                         <li>
                                             <def>SZ_Stapes</def>
                                             <customLabel>left stapes</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -915,7 +915,7 @@
                                         <li>
                                             <def>SZ_Vestibule</def>
                                             <customLabel>right vestibule</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -925,7 +925,7 @@
                                         <li>
                                             <def>SZ_Cochlea</def>
                                             <customLabel>right cochlea</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -935,7 +935,7 @@
                                         <li>
                                             <def>SZ_Semi_Circular_Canals</def>
                                             <customLabel>right semi circular canals</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -945,7 +945,7 @@
                                         <li>
                                             <def>SZ_Malleus</def>
                                             <customLabel>right malleus</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -955,7 +955,7 @@
                                         <li>
                                             <def>SZ_Incus</def>
                                             <customLabel>right incus</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -965,7 +965,7 @@
                                         <li>
                                             <def>SZ_Stapes</def>
                                             <customLabel>right stapes</customLabel>
-                                            <coverage>0.005</coverage>
+                                            <coverage>0.04</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>UpperHead</li>
@@ -991,7 +991,7 @@
                                     <parts>
                                         <li>
                                             <def>SZ_Mandible</def>
-                                            <coverage>0.45</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>FullHead</li>
@@ -1023,7 +1023,7 @@
                         <li>
                             <def>SZ_Clavicle</def>
                             <customLabel>left clavicle</customLabel>
-                            <coverage>0.09</coverage>
+                            <coverage>0.10</coverage>
                             <height>Top</height>
                             <depth>Inside</depth>
                             <groups>
@@ -1033,7 +1033,7 @@
                         <li>
                             <def>SZ_Scapula</def>
                             <customLabel>left scapula</customLabel>
-                            <coverage>0.09</coverage>
+                            <coverage>0.10</coverage>
                             <height>Top</height>
                             <depth>Inside</depth>
                             <groups>
@@ -1051,7 +1051,7 @@
                                 <li>
                                     <def>SZ_Humerus</def>
                                     <customLabel>left humerus</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.15</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>Arms</li>
@@ -1060,7 +1060,7 @@
                                 <li>
                                     <def>SZ_Radius</def>
                                     <customLabel>left radius</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.15</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>Arms</li>
@@ -1069,7 +1069,7 @@
                                 <li>
                                     <def>SZ_Ulna</def>
                                     <customLabel>left ulna</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.15</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>Arms</li>
@@ -1078,7 +1078,7 @@
                                 <li>
                                     <def>SZ_Wrist</def>
                                     <customLabel>left wrist</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.10</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Wrists</li>
@@ -1087,7 +1087,7 @@
                                         <li>
                                             <def>SZ_Hamate</def>
                                             <customLabel>left hamate</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1096,7 +1096,7 @@
                                         <li>
                                             <def>SZ_Pisiform</def>
                                             <customLabel>left pisiform</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1105,7 +1105,7 @@
                                         <li>
                                             <def>SZ_Triquetral</def>
                                             <customLabel>left triquetral</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1114,7 +1114,7 @@
                                         <li>
                                             <def>SZ_Lunate</def>
                                             <customLabel>left lunate</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1123,7 +1123,7 @@
                                         <li>
                                             <def>SZ_Trapezoid</def>
                                             <customLabel>left trapezoid</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1132,7 +1132,7 @@
                                         <li>
                                             <def>SZ_Trapezium</def>
                                             <customLabel>left trapezium</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1141,7 +1141,7 @@
                                         <li>
                                             <def>SZ_Scaphoid</def>
                                             <customLabel>left scaphoid</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1150,7 +1150,7 @@
                                         <li>
                                             <def>SZ_Capitate</def>
                                             <customLabel>left capitate</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1179,7 +1179,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>left metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1189,7 +1189,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>left proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1199,7 +1199,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>left intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1209,7 +1209,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>left distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1230,7 +1230,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>left metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1240,7 +1240,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>left proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1250,7 +1250,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>left intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1260,7 +1260,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>left distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1282,7 +1282,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>left metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1293,7 +1293,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>left proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1304,7 +1304,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>left intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1315,7 +1315,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>left distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1337,7 +1337,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>left metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1347,7 +1347,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>left proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1357,7 +1357,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>left intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1367,7 +1367,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>left distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1388,7 +1388,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>left metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1398,7 +1398,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>left proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1408,7 +1408,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>left distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1435,7 +1435,7 @@
                         <li>
                             <def>SZ_Clavicle</def>
                             <customLabel>right clavicle</customLabel>
-                            <coverage>0.09</coverage>
+                            <coverage>0.10</coverage>
                             <height>Top</height>
                             <depth>Inside</depth>
                             <groups>
@@ -1445,7 +1445,7 @@
                         <li>
                             <def>SZ_Scapula</def>
                             <customLabel>right scapula</customLabel>
-                            <coverage>0.09</coverage>
+                            <coverage>0.10</coverage>
                             <height>Top</height>
                             <depth>Inside</depth>
                             <groups>
@@ -1463,7 +1463,7 @@
                                 <li>
                                     <def>SZ_Humerus</def>
                                     <customLabel>right humerus</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.15</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>Arms</li>
@@ -1472,7 +1472,7 @@
                                 <li>
                                     <def>SZ_Radius</def>
                                     <customLabel>right radius</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.15</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>Arms</li>
@@ -1481,7 +1481,7 @@
                                 <li>
                                     <def>SZ_Ulna</def>
                                     <customLabel>right ulna</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.15</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>Arms</li>
@@ -1490,7 +1490,7 @@
                                 <li>
                                     <def>SZ_Wrist</def>
                                     <customLabel>right wrist</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.10</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Wrists</li>
@@ -1499,7 +1499,7 @@
                                         <li>
                                             <def>SZ_Hamate</def>
                                             <customLabel>right hamate</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1508,7 +1508,7 @@
                                         <li>
                                             <def>SZ_Pisiform</def>
                                             <customLabel>right pisiform</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1517,7 +1517,7 @@
                                         <li>
                                             <def>SZ_Triquetral</def>
                                             <customLabel>right triquetral</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1526,7 +1526,7 @@
                                         <li>
                                             <def>SZ_Lunate</def>
                                             <customLabel>right lunate</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1535,7 +1535,7 @@
                                         <li>
                                             <def>SZ_Trapezoid</def>
                                             <customLabel>right trapezoid</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1544,7 +1544,7 @@
                                         <li>
                                             <def>SZ_Trapezium</def>
                                             <customLabel>right trapezium</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1553,7 +1553,7 @@
                                         <li>
                                             <def>SZ_Scaphoid</def>
                                             <customLabel>right scaphoid</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1562,7 +1562,7 @@
                                         <li>
                                             <def>SZ_Capitate</def>
                                             <customLabel>right capitate</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.10</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>SZ_Wrists</li>
@@ -1591,7 +1591,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>right metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1601,7 +1601,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>right proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1611,7 +1611,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>right intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1621,7 +1621,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>right distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1642,7 +1642,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>right metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1652,7 +1652,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>right proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1662,7 +1662,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>right intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1672,7 +1672,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>right distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1694,7 +1694,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>right metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1705,7 +1705,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>right proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1716,7 +1716,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>right intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1727,7 +1727,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>right distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1749,7 +1749,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>right metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1759,7 +1759,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>right proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1769,7 +1769,7 @@
                                                 <li>
                                                     <def>SZ_Intermediate_Phalange_Hand</def>
                                                     <customLabel>right intermediate phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1779,7 +1779,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>right distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1800,7 +1800,7 @@
                                                 <li>
                                                     <def>SZ_Metacarpal</def>
                                                     <customLabel>right metacarpal</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1810,7 +1810,7 @@
                                                 <li>
                                                     <def>SZ_Proximal_Phalange_Hand</def>
                                                     <customLabel>right proximal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1820,7 +1820,7 @@
                                                 <li>
                                                     <def>SZ_Distal_Phalange_Hand</def>
                                                     <customLabel>right distal phalange</customLabel>
-                                                    <coverage>0.1</coverage>
+                                                    <coverage>0.10</coverage>
                                                     <depth>Inside</depth>
                                                     <groups>
                                                         <li>Hands</li>
@@ -1856,7 +1856,7 @@
                         <li>
                             <def>SZ_Femur</def>
                             <customLabel>left femur</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.20</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -1865,7 +1865,7 @@
                         <li>
                             <def>SZ_Patella</def>
                             <customLabel>left patella</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.10</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -1874,7 +1874,7 @@
                         <li>
                             <def>SZ_Tibia</def>
                             <customLabel>left tibia</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.15</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -1883,7 +1883,7 @@
                         <li>
                             <def>SZ_Fibula</def>
                             <customLabel>left fibula</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.15</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -1892,7 +1892,7 @@
                         <li>
                             <def>SZ_Ankle</def>
                             <customLabel>left ankle</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.10</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>SZ_Ankles</li>
@@ -1901,7 +1901,7 @@
                                 <li>
                                     <def>SZ_Calcaneus</def>
                                     <customLabel>left calcaneus</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1910,7 +1910,7 @@
                                 <li>
                                     <def>SZ_Talus</def>
                                     <customLabel>left talus</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1919,7 +1919,7 @@
                                 <li>
                                     <def>SZ_Cuboid</def>
                                     <customLabel>left cuboid</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1928,7 +1928,7 @@
                                 <li>
                                     <def>SZ_Navicular</def>
                                     <customLabel>left navicular</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1937,7 +1937,7 @@
                                 <li>
                                     <def>SZ_Medial_Cuneiform</def>
                                     <customLabel>left medial cuneiform</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1946,7 +1946,7 @@
                                 <li>
                                     <def>SZ_Intermediate_Cuneiform</def>
                                     <customLabel>left intermediate cuneiform</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1955,7 +1955,7 @@
                                 <li>
                                     <def>SZ_Lateral_Cuneiform</def>
                                     <customLabel>left lateral cuneiform</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -1982,7 +1982,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>left metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -1991,7 +1991,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>left proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2000,7 +2000,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>left intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2009,7 +2009,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>left distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2028,7 +2028,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>left metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2037,7 +2037,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>left proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2046,7 +2046,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>left intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2055,7 +2055,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>left distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2074,7 +2074,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>left metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2083,7 +2083,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>left proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2092,7 +2092,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>left intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2101,7 +2101,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>left distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2120,7 +2120,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>left metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2129,7 +2129,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>left proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2138,7 +2138,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>left intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2147,7 +2147,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>left distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2166,7 +2166,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>left metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2175,7 +2175,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>left proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2184,7 +2184,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>left distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2209,7 +2209,7 @@
                         <li>
                             <def>SZ_Femur</def>
                             <customLabel>right femur</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.20</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -2218,7 +2218,7 @@
                         <li>
                             <def>SZ_Patella</def>
                             <customLabel>right patella</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.10</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -2227,7 +2227,7 @@
                         <li>
                             <def>SZ_Tibia</def>
                             <customLabel>right tibia</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.15</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -2236,7 +2236,7 @@
                         <li>
                             <def>SZ_Fibula</def>
                             <customLabel>right fibula</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.15</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>Legs</li>
@@ -2245,7 +2245,7 @@
                         <li>
                             <def>SZ_Ankle</def>
                             <customLabel>right ankle</customLabel>
-                            <coverage>0.1</coverage>
+                            <coverage>0.10</coverage>
                             <depth>Inside</depth>
                             <groups>
                                 <li>SZ_Ankles</li>
@@ -2254,7 +2254,7 @@
                                 <li>
                                     <def>SZ_Calcaneus</def>
                                     <customLabel>right calcaneus</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2263,7 +2263,7 @@
                                 <li>
                                     <def>SZ_Talus</def>
                                     <customLabel>right talus</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2272,7 +2272,7 @@
                                 <li>
                                     <def>SZ_Cuboid</def>
                                     <customLabel>right cuboid</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2281,7 +2281,7 @@
                                 <li>
                                     <def>SZ_Navicular</def>
                                     <customLabel>right navicular</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2290,7 +2290,7 @@
                                 <li>
                                     <def>SZ_Medial_Cuneiform</def>
                                     <customLabel>right medial cuneiform</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2299,7 +2299,7 @@
                                 <li>
                                     <def>SZ_Intermediate_Cuneiform</def>
                                     <customLabel>right intermediate cuneiform</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2308,7 +2308,7 @@
                                 <li>
                                     <def>SZ_Lateral_Cuneiform</def>
                                     <customLabel>right lateral cuneiform</customLabel>
-                                    <coverage>0.1</coverage>
+                                    <coverage>0.05</coverage>
                                     <depth>Inside</depth>
                                     <groups>
                                         <li>SZ_Ankles</li>
@@ -2335,7 +2335,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>right metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2344,7 +2344,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>right proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2353,7 +2353,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>right intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2362,7 +2362,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>right distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2381,7 +2381,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>right metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2390,7 +2390,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>right proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2399,7 +2399,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>right intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2408,7 +2408,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>right distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2427,7 +2427,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>right metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2436,7 +2436,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>right proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2445,7 +2445,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>right intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2454,7 +2454,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>right distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2473,7 +2473,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>right metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2482,7 +2482,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>right proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2491,7 +2491,7 @@
                                         <li>
                                             <def>SZ_Intermediate_Phalange_Foot</def>
                                             <customLabel>right intermediate phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2500,7 +2500,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>right distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.20</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2519,7 +2519,7 @@
                                         <li>
                                             <def>SZ_Metatarsal</def>
                                             <customLabel>right metatarsal</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2528,7 +2528,7 @@
                                         <li>
                                             <def>SZ_Proximal_Phalange_Foot</def>
                                             <customLabel>right proximal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
@@ -2537,7 +2537,7 @@
                                         <li>
                                             <def>SZ_Distal_Phalange_Foot</def>
                                             <customLabel>right distal phalange</customLabel>
-                                            <coverage>0.1</coverage>
+                                            <coverage>0.25</coverage>
                                             <depth>Inside</depth>
                                             <groups>
                                                 <li>Feet</li>
