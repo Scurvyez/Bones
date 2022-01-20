@@ -4,7 +4,6 @@ using UnityEngine;
 
 namespace Bones
 {
-    //With change in HediffCompProperty I got errors about loading the textures and a suggestion to use StaticConstructorOnStartUp - ZWolf
     [StaticConstructorOnStartup]
     public class HediffComp_ImprovedTendDuration : HediffComp_TendDuration
     {
@@ -26,7 +25,6 @@ namespace Bones
                         return new TextureAndColor(TendedIcon_Well_Injury, color);
                     }
 
-                    //This was skipped because parent IS Hediff_Injury - ZWolf
                     else if ((this.parent is Hediff_StableFracture ||
                             this.parent is Hediff_ObliqueFracture ||
                             this.parent is Hediff_ComminutedFracture ||
