@@ -51,9 +51,20 @@
       <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Users\steve\Downloads\unityengine.coremodule\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DefOf\Bones_HediffDefOf.cs" />
     <Compile Include="DefOf\Bones_BodyPartTagDefOf.cs" />
+    <Compile Include="Hediffs\Hediff_ComminutedFracture.cs" />
+    <Compile Include="Hediffs\Hediff_ObliqueFracture.cs" />
+    <Compile Include="Hediffs\Hediff_TransverseFracture.cs" />
+    <Compile Include="Hediffs\Hediff_CompoundFracture.cs" />
+    <Compile Include="Hediffs\Hediff_StableFracture.cs" />
+    <Compile Include="Misc\HediffCompProperties_ImprovedTendDuration.cs" />
+    <Compile Include="Misc\HediffComp_ImprovedTendDuration.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingArmBone.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingRib.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingVertebrae.cs" />
