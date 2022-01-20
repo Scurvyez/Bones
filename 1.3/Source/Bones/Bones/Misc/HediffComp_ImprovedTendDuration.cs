@@ -4,6 +4,8 @@ using UnityEngine;
 
 namespace Bones
 {
+    //With change in HediffCompProperty I got errors about loading the textures and a suggestion to use StaticConstructorOnStartUp - ZWolf
+    [StaticConstructorOnStartup]
     public class HediffComp_ImprovedTendDuration : HediffComp_TendDuration
     {
         private static readonly Color UntendedColor = new ColorInt(116, 101, 72).ToColor;
@@ -16,7 +18,6 @@ namespace Bones
         {
             get
             {
-                Log.Message("asdasdasdasdasdasdasdasdasd" + parent.GetType());
                 if (this.parent is Hediff_Injury)
                 {
                     if (this.IsTended && !this.parent.IsPermanent())
@@ -24,16 +25,16 @@ namespace Bones
                         Color color = Color.Lerp(UntendedColor, Color.white, Mathf.Clamp01(this.tendQuality));
                         return new TextureAndColor(TendedIcon_Well_Injury, color);
                     }
-                }
 
-                else if ((this.parent is Hediff_StableFracture || 
-                        this.parent is Hediff_ObliqueFracture || 
-                        this.parent is Hediff_ComminutedFracture || 
-                        this.parent is Hediff_CompoundFracture || 
-                        this.parent is Hediff_TransverseFracture) && !this.IsTended)
-                {
-                    //Log.Message("broken bone icon applied");
-                    return BrokenBoneIcon;
+                    //This was skipped because parent IS Hediff_Injury - ZWolf
+                    else if ((this.parent is Hediff_StableFracture ||
+                            this.parent is Hediff_ObliqueFracture ||
+                            this.parent is Hediff_ComminutedFracture ||
+                            this.parent is Hediff_CompoundFracture ||
+                            this.parent is Hediff_TransverseFracture) && !this.IsTended)
+                    {
+                        return BrokenBoneIcon;
+                    }
                 }
 
                 else if (!(this.parent is Hediff_MissingPart) && !this.parent.FullyImmune())
