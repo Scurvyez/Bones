@@ -1,6 +1,7 @@
 ﻿using Verse;
 using RimWorld;
 using UnityEngine;
+using System;
 
 namespace Bones
 {
@@ -8,7 +9,6 @@ namespace Bones
     public class HediffComp_ImprovedTendDuration : HediffComp_TendDuration
     {
         private static readonly Color UntendedColor = new ColorInt(116, 101, 72).ToColor;
-        private static readonly Texture2D TendedFractureIcon = ContentFinder<Texture2D>.Get("UI/Icons/Medical/TendedFracture");
         private static readonly Texture2D StableFractureIcon = ContentFinder<Texture2D>.Get("UI/Icons/Medical/StableFracture");
         private static readonly Texture2D ObliqueFractureIcon = ContentFinder<Texture2D>.Get("UI/Icons/Medical/ObliqueFracture");
         private static readonly Texture2D ComminutedFractureIcon = ContentFinder<Texture2D>.Get("UI/Icons/Medical/ComminutedFracture");
@@ -32,33 +32,23 @@ namespace Bones
 
                     else if (parent is Hediff_StableFracture)
                         {
-                        if (!IsTended)
-                            return StableFractureIcon;
-                        return TendedFractureIcon;
+                        return StableFractureIcon;
                         }
                     else if (parent is Hediff_ObliqueFracture)
                     {
-                        if (!IsTended)
-                            return ObliqueFractureIcon;
-                        return TendedFractureIcon;
+                        return ObliqueFractureIcon;
                     }
                     else if (parent is Hediff_ComminutedFracture)
                     {
-                        if (!IsTended)
-                            return ComminutedFractureIcon;
-                        return TendedFractureIcon;
+                        return ComminutedFractureIcon;
                     }
                     else if (parent is Hediff_CompoundFracture)
                     {
-                        if (!IsTended)
-                            return CompoundFractureIcon;
-                        return TendedFractureIcon;
+                        return CompoundFractureIcon;
                     }
                     else if (parent is Hediff_TransverseFracture)
                     {
-                        if (!IsTended)
-                            return TransverseFractureIcon;
-                        return TendedFractureIcon;
+                        return TransverseFractureIcon;
                     }
                 }
 

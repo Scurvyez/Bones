@@ -2,6 +2,7 @@
 <Patch>
 
     <!--========== REPLACE HUMAN BODY PATCH ==========-->
+    <!-- Vanilla Human Pawns -->
 
     <Operation Class="PatchOperationReplace">
         <xpath>/Defs/ThingDef[defName="Human"]/race/body</xpath>

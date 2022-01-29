@@ -1,9 +1,10 @@
 ﻿using Verse;
+using UnityEngine;
 
 namespace Bones
 {
-    public class Hediff_StableFracture : Hediff_Injury
+    public class Hediff_StableFracture : Hediff_Fracture
     {
-
+        
     }
 }
