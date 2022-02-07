@@ -137,7 +137,7 @@
         <solid>true</solid>
         <bleedRate>0</bleedRate>
         <tags>
-            <li>MovingLimbSegment</li>
+            <li>MovingLimbDigit</li>
         </tags>
     </BodyPartDef>
 
@@ -150,7 +150,7 @@
         <solid>true</solid>
         <bleedRate>0</bleedRate>
         <tags>
-            <li>MovingLimbSegment</li>
+            <li>MovingLimbDigit</li>
         </tags>
     </BodyPartDef>
 
@@ -163,7 +163,7 @@
         <solid>true</solid>
         <bleedRate>0</bleedRate>
         <tags>
-            <li>MovingLimbSegment</li>
+            <li>MovingLimbDigit</li>
         </tags>
     </BodyPartDef>
 
@@ -176,7 +176,7 @@
         <solid>true</solid>
         <bleedRate>0</bleedRate>
         <tags>
-            <li>MovingLimbSegment</li>
+            <li>MovingLimbDigit</li>
         </tags>
     </BodyPartDef>
 
