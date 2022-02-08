@@ -30,26 +30,11 @@ namespace Bones
                         return new TextureAndColor(TendedIcon_Well_Injury, color);
                     }
 
-                    else if (parent is Hediff_StableFracture)
-                        {
-                        return StableFractureIcon;
-                        }
-                    else if (parent is Hediff_ObliqueFracture)
-                    {
-                        return ObliqueFractureIcon;
-                    }
-                    else if (parent is Hediff_ComminutedFracture)
-                    {
-                        return ComminutedFractureIcon;
-                    }
-                    else if (parent is Hediff_CompoundFracture)
-                    {
-                        return CompoundFractureIcon;
-                    }
-                    else if (parent is Hediff_TransverseFracture)
-                    {
-                        return TransverseFractureIcon;
-                    }
+                    else if (parent is Hediff_StableFracture)       return StableFractureIcon;
+                    else if (parent is Hediff_ObliqueFracture)      return ObliqueFractureIcon;
+                    else if (parent is Hediff_ComminutedFracture)   return ComminutedFractureIcon;
+                    else if (parent is Hediff_CompoundFracture)     return CompoundFractureIcon;
+                    else if (parent is Hediff_TransverseFracture)   return TransverseFractureIcon;
                 }
 
                 else if (!(parent is Hediff_MissingPart) && !parent.FullyImmune())
