@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace Bones
 {
     [HarmonyPatch(typeof(HealthUtility), "GetHediffDefFromDamage")]
-    public static class Bones_GetHediffDefFromDamage_Patch
+    public static class Bones_GetHediffDefFromDamage_Postfix
     {
         [HarmonyPostfix]
         public static void GetHediffDefFromDamage(DamageDef dam, Pawn pawn, BodyPartRecord part, ref HediffDef __result)
@@ -22,7 +22,8 @@ namespace Bones
                 (dam.hediffSolid != null)) &&
                 (!pawn.RaceProps.FleshType.defName.Contains("Mechanoid")) &&
                 (!part.body.defName.Contains("Body")) && 
-                (!part.body.defName.Contains("SZ_Body")))
+                (!part.body.defName.Contains("SZ_Body")) &&
+                (!part.def.label.Contains("body")))
             {
                 __result = injuryList.RandomElement();
             }

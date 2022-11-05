@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Lib.Harmony.2.2.0\lib\net472\0Harmony.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
@@ -51,15 +52,16 @@
       <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Users\steve\Downloads\unityengine.coremodule\UnityEngine.CoreModule.dll</HintPath>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DefOf\Bones_HediffDefOf.cs" />
     <Compile Include="DefOf\Bones_BodyPartTagDefOf.cs" />
+    <Compile Include="Harmony\Bones_GetGeneralDestroyedPartLabel_Postfix.cs" />
+    <Compile Include="Hediffs\Hediff_Fibrodysplasia.cs" />
     <Compile Include="Hediffs\Hediff_Fracture.cs" />
     <Compile Include="Hediffs\Hediff_ComminutedFracture.cs" />
     <Compile Include="Hediffs\Hediff_ObliqueFracture.cs" />
@@ -72,15 +74,13 @@
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingRib.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingVertebrae.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingLegBone.cs" />
-    <Compile Include="Harmony\Bones_GetHediffDefFromDamage_Patch.cs" />
+    <Compile Include="Harmony\Bones_GetHediffDefFromDamage_Postfix.cs" />
     <Compile Include="Harmony\HarmonyInstance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Misc\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
