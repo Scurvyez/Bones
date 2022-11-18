@@ -51,16 +51,14 @@
       <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Users\steve\Downloads\unityengine.coremodule\UnityEngine.CoreModule.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\..\..\RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DefOf\Bones_HediffDefOf.cs" />
     <Compile Include="DefOf\Bones_BodyPartTagDefOf.cs" />
-    <Compile Include="Hediffs\Hediff_Fibrodysplasia.cs" />
+    <Compile Include="HediffGivers\HediffGiver_BoneFractureAtOldAge.cs" />
     <Compile Include="Hediffs\Hediff_Fracture.cs" />
     <Compile Include="Hediffs\Hediff_ComminutedFracture.cs" />
     <Compile Include="Hediffs\Hediff_ObliqueFracture.cs" />

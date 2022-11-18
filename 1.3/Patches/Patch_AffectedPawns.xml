@@ -11,4 +11,11 @@
         </value>
     </Operation>
 
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Human"]/race/hediffGiverSets</xpath>
+        <value>
+            <li>SZ_BrittleBones</li>
+        </value>
+    </Operation>
+
 </Patch>
