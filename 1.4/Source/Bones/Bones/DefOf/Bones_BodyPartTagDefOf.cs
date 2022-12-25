@@ -10,5 +10,10 @@ namespace Bones
         public static BodyPartTagDef SZ_ArmBone_Tag;
         public static BodyPartTagDef SZ_Vertebrae_Tag;
         public static BodyPartTagDef SZ_Rib_Tag;
+
+        static Bones_BodyPartTagDefOf()
+        {
+            DefOfHelper.EnsureInitializedInCtor(typeof(Bones_BodyPartTagDefOf));
+        }
     }
 }

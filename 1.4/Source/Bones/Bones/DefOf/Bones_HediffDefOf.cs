@@ -11,5 +11,10 @@ namespace Bones
         public static HediffDef SZ_Transverse_Fracture;
         public static HediffDef SZ_Oblique_Fracture;
         public static HediffDef SZ_Comminuted_Fracture;
+
+        static Bones_HediffDefOf()
+        {
+            DefOfHelper.EnsureInitializedInCtor(typeof(Bones_HediffDefOf));
+        }
     }
 }
