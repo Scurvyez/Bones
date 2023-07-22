@@ -68,6 +68,8 @@
     <Compile Include="Hediffs\Hediff_StableFracture.cs" />
     <Compile Include="HediffComps\HediffCompProps\HediffCompProperties_ImprovedTendDuration.cs" />
     <Compile Include="HediffComps\HediffComp_ImprovedTendDuration.cs" />
+    <Compile Include="ThingComps\Comp_ExtraPawnGraphics.cs" />
+    <Compile Include="ThingComps\CompProperties\CompProperties_ExtraPawnGraphics.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingArmBone.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingRib.cs" />
     <Compile Include="ThoughtWorkers\ThoughtWorker_MissingVertebrae.cs" />

@@ -6,6 +6,8 @@ namespace Bones
     public class Hediff_Fracture : Hediff_Injury
     {
         private static readonly Color PermanentInjuryColor = new(0.72f, 0.72f, 0.72f);
+
+        // Make a settings tab so players can pick what colors to lerp through for the efficiency value.
         public override Color LabelColor => this.IsPermanent() ? PermanentInjuryColor : Color.Lerp(Color.red, Color.white, ColorSeverity());
         // Color.Lerp(first color = most severe, second color = least sever)
 

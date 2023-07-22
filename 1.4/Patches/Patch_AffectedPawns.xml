@@ -18,4 +18,25 @@
         </value>
     </Operation>
 
+    <!-- <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Human"]</xpath>
+        <value>
+            <comps>
+                <li Class="Bones.CompProperties_ExtraPawnGraphics">
+                    <graphicsFracture>
+                        <li>
+                            <texPath>Effects/Fracture</texPath>
+                            <graphicClass>Graphic_Flicker</graphicClass>
+                            <drawSize>(0.15, 0.15)</drawSize>
+                            <drawOffset>(0.55, 1.0, 0.8)</drawOffset>
+                            <damageData>
+                                <enabled>false</enabled>
+                            </damageData>
+                        </li>
+                    </graphicsFracture>
+                </li>
+            </comps>
+        </value>
+    </Operation> -->
+
 </Patch>
