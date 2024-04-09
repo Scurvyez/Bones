@@ -7,12 +7,10 @@
     <supportedVersions>
         <li>1.3</li>
         <li>1.4</li>
+        <li>1.5</li>
     </supportedVersions>
 
     <description>
-Discord: Steve o.O#1151
-steam: Scurvyez
-
 Have you ever felt like vanilla humans lacked an appropriate skeletal structure?
 Yeah... me neither.
 
@@ -21,15 +19,9 @@ Want to watch those new bone fractures roll in during combat? Or surgically remo
 Bones gives you more dastardly sadistic control and pleasure than you ever thought you needed.
 
 Have fun and thanks for giving this mess of a mod a shot! :)
-    </description>
 
-    <loadAfter>
-        <li>Ludeon.RimWorld</li>
-        <li>brrainz.harmony</li>
-        <li>Ludeon.RimWorld.Royalty</li>
-        <li>Ludeon.RimWorld.Ideology</li>
-        <li>Ludeon.RimWorld.Biotech</li>
-    </loadAfter>
+Discord: steveo.o
+    </description>
 
 </ModMetaData>
 

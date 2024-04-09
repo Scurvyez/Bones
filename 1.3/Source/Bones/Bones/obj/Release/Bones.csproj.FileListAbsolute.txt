@@ -1,4 +1,0 @@
-S:\Games\Steam\steamapps\common\RimWorld\Mods\Bones\1.3\Assemblies\Bones.dll
-S:\Games\Steam\steamapps\common\RimWorld\Mods\Bones\1.3\Source\Bones\Bones\obj\Release\Bones.csproj.AssemblyReference.cache
-S:\Games\Steam\steamapps\common\RimWorld\Mods\Bones\1.3\Source\Bones\Bones\obj\Release\Bones.csproj.CoreCompileInputs.cache
-S:\Games\Steam\steamapps\common\RimWorld\Mods\Bones\1.3\Source\Bones\Bones\obj\Release\Bones.dll
