@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\bones\\harmony\\bones_gethediffdeffromdamage_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|solutionrelative:bones\\harmony\\bones_gethediffdeffromdamage_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|s:\\games\\steam\\steamapps\\common\\rimworld\\mods\\bones\\1.5\\source\\bones\\bones\\hediffs\\hediff_fracture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|solutionrelative:bones\\hediffs\\hediff_fracture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,11 +15,7 @@
       "RelativeMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|solutionrelative:bones\\hediffcomps\\hediffcomp_improvedtendduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|s:\\games\\steam\\steamapps\\common\\rimworld\\mods\\bones\\1.5\\source\\bones\\bones\\harmony\\bones_gethediffdeffromdamage_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|solutionrelative:bones\\harmony\\bones_gethediffdeffromdamage_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|s:\\games\\steam\\steamapps\\common\\rimworld\\mods\\bones\\1.5\\source\\bones\\bones\\hediffgivers\\hediffgiver_bonefractureatoldage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\bones\\hediffgivers\\hediffgiver_bonefractureatoldage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C98EEA2-4A3A-49B1-8596-4E9055BA29B5}|Bones\\Bones.csproj|solutionrelative:bones\\hediffgivers\\hediffgiver_bonefractureatoldage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Hediff_Fracture.cs",
               "DocumentMoniker": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\Bones\\Hediffs\\Hediff_Fracture.cs",
               "RelativeDocumentMoniker": "Bones\\Hediffs\\Hediff_Fracture.cs",
               "ToolTip": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\Bones\\Hediffs\\Hediff_Fracture.cs",
               "RelativeToolTip": "Bones\\Hediffs\\Hediff_Fracture.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T21:16:47.988Z",
               "EditorCaption": ""
@@ -53,27 +53,27 @@
               "RelativeDocumentMoniker": "Bones\\HediffGivers\\HediffGiver_BoneFractureAtOldAge.cs",
               "ToolTip": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\Bones\\HediffGivers\\HediffGiver_BoneFractureAtOldAge.cs",
               "RelativeToolTip": "Bones\\HediffGivers\\HediffGiver_BoneFractureAtOldAge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T21:16:16.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Bones_GetHediffDefFromDamage_Patch.cs",
               "DocumentMoniker": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\Bones\\Harmony\\Bones_GetHediffDefFromDamage_Patch.cs",
               "RelativeDocumentMoniker": "Bones\\Harmony\\Bones_GetHediffDefFromDamage_Patch.cs",
               "ToolTip": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\Bones\\Harmony\\Bones_GetHediffDefFromDamage_Patch.cs",
               "RelativeToolTip": "Bones\\Harmony\\Bones_GetHediffDefFromDamage_Patch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T21:16:11.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HediffComp_ImprovedTendDuration.cs",
               "DocumentMoniker": "S:\\Games\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bones\\1.5\\Source\\Bones\\Bones\\HediffComps\\HediffComp_ImprovedTendDuration.cs",
               "RelativeDocumentMoniker": "Bones\\HediffComps\\HediffComp_ImprovedTendDuration.cs",
